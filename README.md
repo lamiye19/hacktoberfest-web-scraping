@@ -2,6 +2,8 @@
 
 Ce dépôt a été créé pour documenter le workshop sur les outils et méthodes d'extration Web et PDF dans le cadre de Hacktoberfest. Ici, nous faisons l'extraction à partir des données sur le web. Retrouvez la documentation sur l'extraction à partir de fichiers PDF dans [ce dépôt](https://github.com/gausoft/hacktoberfest-pdf-tabular-data-extraction).
 
+Présentation du [workshop (slides)](https://docs.google.com/presentation/d/1a_KG5tUcjo6759QEeSOEV2pZKi2roCQr/edit#slide=id.p25)
+
 ## Sur quelles données travaillons nous ?
 
 Dans le cadre de cet atelier, exclusivement pour étude, nous collectons les données immobilières de quelques pays sur Coin Afrique. Le but
