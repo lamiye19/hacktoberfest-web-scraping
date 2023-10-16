@@ -20,9 +20,9 @@ pip install pandas
 ```
 
 ### Étape 2: Mieux comprendre
-Sur Coin Afrique, nous retrouvons les annonces immobilières sur « https://{pays}.coinafrique.com/categorie/immobilier?page={page_num} ». C'est une pagination de plus de 30 pages qui contiennent au plus 84 annonces chacune.
+Sur Coin Afrique, nous retrouvons les annonces immobilières sur ```https://{pays}.coinafrique.com/categorie/immobilier?page={page_num}```. C'est une pagination de plus de 30 pages qui contiennent au plus 84 annonces chacune.
 
-Sur une page de plusieurs éléments, nous récupérons juste le lien vers chaque page de détails que nous précédons de « https://{pays}.coinafrique.com/ »
+Sur une page de plusieurs éléments, nous récupérons juste le lien vers chaque page de détails que nous précédons de ```https://{pays}.coinafrique.com/```
 
 Sur la page détail d'un bien immobilier, il y a une balise « div » qui contient tous les informations du bien. Voici la structure
 
