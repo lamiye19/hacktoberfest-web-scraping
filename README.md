@@ -44,3 +44,7 @@ Sur la page détail d'un bien immobilier, il y a une balise « div » qui cont
 
 - [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
 - [pandas](https://pandas.pydata.org/docs/)
+
+## Clause de non-responsabilité
+
+Ce code a été écrit exclusivement dans le cadre de cet apprentissage. Une mauvaise utilisation de celui ci peut être nuisible pour le site et l'auteur se désengage de toute responsabilité liée à son utilisation. Veuillez respecter les lois sur la protection des données et les droits d'auteur lors de l'utilisation de ce code.
